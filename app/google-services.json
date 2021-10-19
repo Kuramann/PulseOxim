@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "453261528762",
+    "firebase_url": "https://max30100-5e96d-default-rtdb.firebaseio.com",
+    "project_id": "max30100-5e96d",
+    "storage_bucket": "max30100-5e96d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453261528762:android:b4273d673e594454623c83",
+        "android_client_info": {
+          "package_name": "com.example.pulseoxim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453261528762-im7qoe67sushgj9fja3dob2rc3pk9457.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKoqbgJm15VzHdskKvKZrYfkQJL_XXb08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453261528762-im7qoe67sushgj9fja3dob2rc3pk9457.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453261528762:android:714101b7fe9d7cdd623c83",
+        "android_client_info": {
+          "package_name": "com.example.pulsoximetru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453261528762-im7qoe67sushgj9fja3dob2rc3pk9457.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKoqbgJm15VzHdskKvKZrYfkQJL_XXb08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453261528762-im7qoe67sushgj9fja3dob2rc3pk9457.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

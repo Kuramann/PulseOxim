@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PulseOxim</string>
+    <string name="navigation_drawer_open">Open navigation Drawer</string>
+    <string name="navigation_drawer_clos">Close navigation Drawer</string>
+</resources>
